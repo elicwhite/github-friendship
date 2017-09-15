@@ -1,5 +1,4 @@
 # Github-Friendship
-=========
 
 This script will tell you what issues and pull requests two users have both commented on.
 
