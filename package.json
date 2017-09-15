@@ -1,0 +1,12 @@
+{
+  "name": "node-github-friendship",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-github-graphql": "^0.2.6"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
