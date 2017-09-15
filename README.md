@@ -1,6 +1,8 @@
 # Github-Friendship
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/TheSavior/github-friendship.svg)](https://greenkeeper.io/)
+
 This script will tell you what issues and pull requests two users have both commented on.
 
 ## Usage
